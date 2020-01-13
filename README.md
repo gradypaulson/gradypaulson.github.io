@@ -1,1 +1,4 @@
-# gradypaulson.github.io
+# lotad.me
+
+
+its lotad
