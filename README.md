@@ -1,4 +1,0 @@
-# lotad.me
-
-
-its lotad
